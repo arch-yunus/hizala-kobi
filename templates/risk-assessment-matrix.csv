@@ -1,0 +1,4 @@
+Risk_ID,Surec,Risk_Tanimi,Olasilik_1_5,Etki_1_5,Risk_Skoru,Risk_Seviyesi,Mevcut_Kontroller,Alinacak_Aksiyon,Sorumlu,Termin_Tarihi
+R-001,Bilgi Teknolojileri,Sunucu cokmesi ve veri kaybi,3,5,15,Yuksek,Gunluk yedekleme,Bulut yedekleme sistemine gecis,IT Muduru,2023-12-31
+R-002,Insan Kaynaklari,Kritik personelin isten ayrilmasi,2,4,8,Orta,Yedekleme plani yok,Kilit pozisyonlar icin yedekleme plani hazirlanmasi,IK Uzmani,2023-10-15
+R-003,Uretim,Hammadde tedarikinde gecikme,4,3,12,Yuksek,Alternatif tedarikci listesi,Tedarikci aginin genisletilmesi,Satin Alma,2023-11-01
